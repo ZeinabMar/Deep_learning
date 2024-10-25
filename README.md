@@ -14,5 +14,6 @@ Each topic is implemented with **TensorFlow** and **Keras** for hands-on explora
 ## Installation
 
 To run the code in this repository, install the following dependencies:
+  ``` bash
   tensorflow 
   keras
