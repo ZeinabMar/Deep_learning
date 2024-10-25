@@ -1,16 +1,18 @@
-# Deep Learning Projects
+# Deep Learning Essentials
 
-In this repository, we aim to discuss deep learning and implement detailed topics, including the following:
+In this repository, we delve into fundamental deep learning concepts and implement detailed examples for each. The focus areas include:
 
 ## Topics Covered
-- **Activation Functions**: Understanding and implementing various activation functions used in deep learning models.
-- **Subclass Model**: Exploring the subclassing method to create custom models in TensorFlow and Keras.
-- **Transfer Learning Initialization**: Implementing transfer learning techniques to initialize models for specific tasks.
-- **Regression and Classification Models**: Building and training models for regression and classification tasks using TensorFlow and Keras.
+- **Activation Functions**: Implementation and comparison of various activation functions used in neural networks.
+- **Subclass Model**: Understanding and creating custom models using subclassing in TensorFlow and Keras.
+- **Transfer Learning**: Utilizing pre-trained models to transfer knowledge to new tasks.
+- **Initialization**: Examining initialization methods for neural network weights.
+- **Regression and Classification Models**: Building both regression and classification models, covering end-to-end implementations.
+
+Each topic is implemented with **TensorFlow** and **Keras** for hands-on exploration.
 
 ## Installation
 
-To run the code in this repository, make sure you have the following dependencies installed:
-پ
+To run the code in this repository, install the following dependencies:
   tensorflow 
   keras
